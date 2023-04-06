@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev"
+  site-url: "https://terryn.github.io/nbdev"
+  description: "NBDev learning"
+  repo-branch: main
+  repo-url: "https://github.com/terryn/nbdev"
